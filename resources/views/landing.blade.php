@@ -241,7 +241,7 @@
         </div>
 
     <!-- JADWAL BELAJAR -->
-     <div class="max-w-6xl mx-auto mt-20">
+     <div class="max-w-6xl mx-auto mt-10">
         <h3 class="text-3xl font-bold gradient-text text-center mb-10">Jadwal Belajar</h3>
 
         <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
