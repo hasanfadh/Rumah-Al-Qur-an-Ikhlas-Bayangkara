@@ -520,13 +520,7 @@
                     </a>
                 </div>
             </div>
-            
-            <div class="bg-white/10 backdrop-blur-sm rounded-xl p-6 max-w-md mx-auto mb-8">
-                <div class="text-4xl mb-3">📅</div>
-                <h3 class="font-semibold mb-2">Jadwal</h3>
-                <p>Setiap Hari – Pagi & Sore</p>
-            </div>
-            
+
             <a href="https://wa.me/628123287425" 
                class="inline-block bg-white text-green-700 px-8 py-4 rounded-full font-semibold hover:bg-green-50 transition shadow-xl hover:shadow-2xl">
                 Daftar Sekarang via WhatsApp
