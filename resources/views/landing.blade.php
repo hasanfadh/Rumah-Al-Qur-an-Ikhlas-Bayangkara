@@ -423,7 +423,7 @@
                 <div class="bg-white/10 backdrop-blur-sm rounded-xl p-6">
                     <div class="text-4xl mb-3">📍</div>
                     <h3 class="font-semibold mb-2">Lokasi</h3>
-                    <p>Permata Candiloka Blok T</p>
+                    <p>Permata Candiloka Blok T-17 Balonggabus Candi Sidoarjo</p>
                 </div>
                 
                 <div class="bg-white/10 backdrop-blur-sm rounded-xl p-6">
