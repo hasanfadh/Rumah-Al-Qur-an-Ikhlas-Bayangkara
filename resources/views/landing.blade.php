@@ -239,7 +239,95 @@
                 </div>
             </div>
         </div>
+
+    <!-- JADWAL BELAJAR -->
+     <div class="max-w-6xl mx-auto">
+        <h3 class="text=3xl font-bold text-center text-green-700 mb-8">📅 Jadwal Belajar</h3>
+        <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+            <!-- Tahfidz Anak -->
+             <div class="bg-white rounded-2xl shadow-xl p-6 card-hover border-t-4 border-green-500">
+                <div class="text-center mb-4">
+                    <div class="text-5xl mb-3">👶</div>
+                    <h4 class="text-xl font-bold text-green-700">Tahfidz Anak</h4>
+                </div>
+                <div class="space-y-3 text-sm">
+                    <div clas="bg-green-50 rounded-lg p-3">
+                        <div class="font-semibold text-green-800 mb-1">📅 Hari</div>
+                        <div class="text-gray-700">Selasa - Rabu</div>
+                    </div>
+                    <div class="bg-green-50 rounded-lg p-3">
+                        <div class="font-semibold text-green-800 mb-1">🕕 Waktu</div>
+                        <div class="text-gray-700">18.00 - 19.00</div>
+                    </div>
+                </div>
+            </div>
+             <!-- Tahfidz Ibu-Ibu -->
+            <div class="bg-white rounded-2xl shadow-xl p-6 card-hover border-t-4 border-green-600">
+                <div class="text-center mb-4">
+                    <div class="text-5xl mb-3">👩</div>
+                    <h4 class="text-xl font-bold text-green-700">Tahfidz Ibu-Ibu</h4>
+                </div>
+                <div class="space-y-3 text-sm">
+                    <div class="bg-green-50 rounded-lg p-3">
+                        <div class="font-semibold text-green-800 mb-1">📆 Hari</div>
+                        <div class="text-gray-700">Selasa - Rabu - Jumat</div>
+                    </div>
+                    <div class="bg-green-50 rounded-lg p-3">
+                        <div class="font-semibold text-green-800 mb-1">🕐 Waktu</div>
+                        <div class="text-gray-700">13.30 - 15.00</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Tahsin Ibu-Ibu -->
+            <div class="bg-white rounded-2xl shadow-xl p-6 card-hover border-t-4 border-green-700">
+                <div class="text-center mb-4">
+                    <div class="text-5xl mb-3">👩‍🏫</div>
+                    <h4 class="text-xl font-bold text-green-700">Tahsin Ibu-Ibu</h4>
+                </div>
+                <div class="space-y-3 text-sm">
+                    <div class="bg-green-50 rounded-lg p-3">
+                        <div class="font-semibold text-green-800 mb-1">📆 Hari</div>
+                        <div class="text-gray-700">Sabtu - Ahad</div>
+                    </div>
+                    <div class="bg-green-50 rounded-lg p-3">
+                        <div class="font-semibold text-green-800 mb-1">🕐 Waktu</div>
+                        <div class="text-gray-700">19.30 - 21.00</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Tahsin Bapak-Bapak -->
+            <div class="bg-white rounded-2xl shadow-xl p-6 card-hover border-t-4 border-green-800">
+                <div class="text-center mb-4">
+                    <div class="text-5xl mb-3">👨‍🏫</div>
+                    <h4 class="text-xl font-bold text-green-700">Tahsin Bapak-Bapak</h4>
+                </div>
+                <div class="space-y-3 text-sm">
+                    <div class="bg-green-50 rounded-lg p-3">
+                        <div class="font-semibold text-green-800 mb-1">📆 Hari</div>
+                        <div class="text-gray-700">Selasa - Rabu - Kamis</div>
+                    </div>
+                    <div class="bg-green-50 rounded-lg p-3">
+                        <div class="font-semibold text-green-800 mb-1">🕐 Waktu</div>
+                        <div class="text-gray-700">19.30 - 21.00</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+            <!-- CTA Button -->
+            <div class="text-center mt-10">
+                <p class="text-gray-600 mb-4">Pilih jadwal yang sesuai dengan Anda</p>
+                <a href="https://wa.me/628123287425?text=Assalamualaikum,%20saya%20ingin%20mendaftar%20program%20belajar%20Al-Quran" 
+                    target="_blank"
+                    class="inline-block bg-green-700 text-white px-8 py-4 rounded-full font-semibold hover:bg-green-800 transition shadow-lg hover:shadow-xl">
+                    💬 Konsultasi Jadwal via WhatsApp
+                </a>
+            </div>
+        </div>
     </section>
+    
 
     <!-- CORE VALUES -->
     <section id="nilai" class="bg-gradient-to-br from-green-50 to-green-100 py-20">
