@@ -515,8 +515,8 @@
                 <div class="bg-white/10 backdrop-blur-sm rounded-xl p-6">
                     <div class="text-4xl mb-3">📸</div>
                     <h3 class="font-semibold mb-2">Instagram</h3>
-                    <a href="https://instagram.com/rumahalquran.ikhlasbayangkara" class="hover:underline text-sm">
-                        @rumahalquran.ikhlasbayangkara
+                    <a href="https://www.instagram.com/gtibsda/" class="hover:underline text-sm">
+                        @gtibsda
                     </a>
                 </div>
             </div>
