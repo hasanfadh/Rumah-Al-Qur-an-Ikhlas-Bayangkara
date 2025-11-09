@@ -252,7 +252,7 @@
                     <h4 class="text-xl font-bold text-green-700">Tahfidz Anak</h4>
                 </div>
                 <div class="space-y-3 text-sm">
-                    <div clas="bg-green-50 rounded-lg p-3">
+                    <div class="bg-green-50 rounded-lg p-3">
                         <div class="font-semibold text-green-800 mb-1">📅 Hari</div>
                         <div class="text-gray-700">Selasa - Rabu</div>
                     </div>
