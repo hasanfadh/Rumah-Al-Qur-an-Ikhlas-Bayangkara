@@ -242,7 +242,8 @@
 
     <!-- JADWAL BELAJAR -->
      <div class="max-w-6xl mx-auto">
-        <h3 class="text=3xl font-bold text-center text-green-700 mb-8">📅 Jadwal Belajar</h3>
+        <h2 class="text-4xl font-bold gradient-text text-center mb-12">📅 Jadwal Belajar</h2>
+
         <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
             <!-- Tahfidz Anak -->
              <div class="bg-white rounded-2xl shadow-xl p-6 card-hover border-t-4 border-green-500">
@@ -315,17 +316,7 @@
                 </div>
             </div>
         </div>
-
-            <!-- CTA Button -->
-            <div class="text-center mt-10">
-                <p class="text-gray-600 mb-4">Pilih jadwal yang sesuai dengan Anda</p>
-                <a href="https://wa.me/628123287425?text=Assalamualaikum,%20saya%20ingin%20mendaftar%20program%20belajar%20Al-Quran" 
-                    target="_blank"
-                    class="inline-block bg-green-700 text-white px-8 py-4 rounded-full font-semibold hover:bg-green-800 transition shadow-lg hover:shadow-xl">
-                    💬 Konsultasi Jadwal via WhatsApp
-                </a>
-            </div>
-        </div>
+    </div>
     </section>
     
 
