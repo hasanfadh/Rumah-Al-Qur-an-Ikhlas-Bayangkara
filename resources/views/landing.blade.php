@@ -258,7 +258,7 @@
                     </div>
                     <div class="bg-green-50 rounded-lg p-3">
                         <div class="font-semibold text-green-800 mb-1">🕕 Waktu</div>
-                        <div class="text-gray-700">18.00 - 19.00</div>
+                        <div class="text-gray-700">18.00 - 19.30</div>
                     </div>
                 </div>
             </div>
