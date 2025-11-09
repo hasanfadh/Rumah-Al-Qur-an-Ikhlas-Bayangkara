@@ -241,8 +241,8 @@
         </div>
 
     <!-- JADWAL BELAJAR -->
-     <div class="max-w-6xl mx-auto">
-        <h2 class="text-4xl font-bold gradient-text text-center mb-12">📅 Jadwal Belajar</h2>
+     <div class="max-w-6xl mx-auto mt-20 pt-16 border-t-2 border-gray-200">
+        <h3 class="text-3xl font-bold gradient-text text-center mb-10">Jadwal Belajar</h3>
 
         <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
             <!-- Tahfidz Anak -->
