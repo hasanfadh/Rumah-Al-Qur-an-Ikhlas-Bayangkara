@@ -1,10 +1,15 @@
 {
   "version": 2,
-  "functions": {
-    "api/*.php": {
-      "runtime": "github:juicyfx/vercel-php-runtime@main"
+  "builds": [
+    {
+      "src": "api/index.php",
+      "use": "vercel-community/php"
+    },
+    {
+      "src": "public/**/*",
+      "use": "@vercel/static"
     }
-  },
+  ],
   "routes": [
     { "src": "/(.*)", "dest": "api/index.php" }
   ]
