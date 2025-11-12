@@ -2,7 +2,7 @@
   "version": 2,
   "functions": {
     "api/*.php": {
-      "runtime": "vercel-php-runtime@0.5.2"
+      "runtime": "github:juicyfx/vercel-php-runtime@main"
     }
   },
   "routes": [
