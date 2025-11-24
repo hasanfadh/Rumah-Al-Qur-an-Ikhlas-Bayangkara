@@ -1,1 +1,1 @@
-Projek Laravel website untuk Rumah Al'Quran Ikhlas Bayangkara
+Built a static landing page using HTML5, Tailwind CSS, and vanilla JavaScript. Implemented responsive navigation, scroll-triggered animations with Intersection Observer, and mobile-optimized interface.
